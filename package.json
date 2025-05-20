@@ -1,0 +1,42 @@
+{
+  "name": "threejs-displacement-map",
+  "version": "1.0.0",
+  "lockfileVersion": 3,
+  "author": "Anderson Mancini",
+  "keywords": [
+    "threejs",
+    "displacement map",
+    "threejs displacement map"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.92.7",
+    "@react-three/fiber": "^8.15.12",
+    "@react-three/postprocessing": "^2.15.12",
+    "leva": "^0.9.35",
+    "maath": "^0.10.7",
+    "noisejs": "^2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.160.0",
+    "valtio": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.47",
+    "@types/react-dom": "^18.2.18",
+    "@types/three": "^0.160.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.0.11"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
